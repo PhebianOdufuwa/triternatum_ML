@@ -1,5 +1,4 @@
 # triternatum_ML
-# Genomic Classification Pipeline
 
 A modular machine learning pipeline for combined genomic sequence and morphological image classification. Processes FASTA alignments and specimen images to train, tune, and evaluate multiple classifiers with publication-ready outputs.
 
